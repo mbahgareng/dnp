@@ -8,7 +8,7 @@ Formula quantity unit specification:
 Name:,ml
 Type:,LT
 Ratio:,0.001
-Comment:,
+Comment:, rev 1
 Price calculation model:
 Surcharge:,0
 VAT Precentage:,0
@@ -8268,3 +8268,4 @@ Jotun True Beauty Sheen,P3,"Danacryl Sheen JT S  4040-G30Y",1,Lt,B14,AGX1,6.975,
 Jotun True Beauty Sheen,P3,"Danacryl Sheen JT S  3560-G10Y",1,Lt,B14,AGX1,22.5,AYB1,22.905,AYO1,2.34,AWX1,0.495,,,,,2026-08-31,3895591,268-JT S  3560-G10Y,
 ##1 - END TABLE
 ## - EOF
+
